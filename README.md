@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **My startup android application**
 
-- 🌱 I’m currently learning **I'm currently learning PHP Laravel to build the backend of Android apps.**
+- 🌱 I’m currently learning **PHP Laravel to build the backend of Android apps.**
 
 - 📫 How to reach me **bhavyansh2018@gmail.com**
 

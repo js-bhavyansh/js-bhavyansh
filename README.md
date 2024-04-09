@@ -1,7 +1,7 @@
 ![logo](https://github.com/Bhavyansh03-tech/Bhavyansh03-tech/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Bhavyansh</h1>
 <h3 align="center">A passionate android app developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif">
+<img align="right" alt="coding" width="450" src="https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyansh03-tech&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyansh03-tech" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bhavyansh_03" target="blank"><img src="https://img.shields.io/twitter/follow/bhavyansh_03?logo=twitter&style=for-the-badge" alt="bhavyansh_03" /></a> </p>

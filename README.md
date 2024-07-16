@@ -1,26 +1,22 @@
-![logo](https://github.com/Bhavyansh03-tech/Bhavyansh03-tech/blob/main/banner.jpg)
-<h1 align="center">Hi 👋, I'm Bhavyansh</h1>
-<h3 align="center">A passionate android app developer from India</h3>
-<img align="right" alt="coding" width="450" src="https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyansh03-tech&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyansh03-tech" /> </p>
+# 💫 About Me:
+<b>About Me</b><br>Hello! I'm Bhavyansh, a passionate Android app developer from India. I'm currently working on my startup Android application and always looking to create something fresh and special with my projects. In my free time, I'm a gamer, which often inspires me to bring unique ideas into my development work.<br><br><b>What I'm Learning</b><br>I'm deeply immersed in Jetpack Compose, discovering new features and enhancing my skills. Alongside, I'm learning PHP Laravel to build robust backends for my Android apps, with plans to solidify my knowledge in SQL.<br><br><b>Skills and Experience</b><br>- Android Development: Expertise in Jetpack Compose, XML, and building applications using both Java and Kotlin.<br>- Programming Languages: Proficient in Kotlin and Java.<br>- Backend Development: Learning PHP Laravel and SQL, with experience in Firebase and Room Database.<br>- Architectures and Patterns: Strong understanding of MVVM architecture.<br>- Dependency Management: Skilled in using Dagger-Hilt and Dependency Injection.<br>- Networking: Experienced with Retrofit for API calls.<br>- Tools and Technologies: Always keen to explore and master new tools and technologies in the Android ecosystem.<br><br><b>Let's Connect</b><br>Feel free to reach out to me at bhavyansh2018@gmail.com for any collaboration, queries, or just to chat about the latest in Android development!
 
-<p align="left"> <a href="https://twitter.com/bhavyansh_03" target="blank"><img src="https://img.shields.io/twitter/follow/bhavyansh_03?logo=twitter&style=for-the-badge" alt="bhavyansh_03" /></a> </p>
 
-- 🔭 I’m currently working on **My startup android application**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavyansh_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyansh-b-13711a218/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bhavyansh_03) 
 
-- 🌱 I’m currently learning **PHP Laravel to build the backend of Android apps.**
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bhavyansh03-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bhavyansh03-tech&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyansh03-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- 📫 How to reach me **bhavyansh2018@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- ⚡ Fun fact **In my free time, I'm a gamer. I'm always looking to create something fresh and special with my projects.**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Bhavyansh03-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhavyansh_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavyansh_03" height="30" width="40" /></a>
-<a href="https://instagram.com/bhavyansh_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavyansh_03" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavyansh03-tech&show_icons=true&locale=en" alt="bhavyansh03-tech" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Bhavyansh03-tech&icon=0&color=0)](https://visitcount.itsvg.in)

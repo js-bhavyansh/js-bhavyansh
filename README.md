@@ -43,8 +43,8 @@ Currently, I am developing mobile solutions at **Yonder Wonder**.
 I am always open to discussing new mobile technologies, architecture patterns, or collaboration opportunities.
 
 - 📧 **Email:** bhavyansh2018@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/JSBhavyansh](https://linkedin.com/in/JSBhavyansh)
-- 🌐 **Portfolio:** [bhavyansh.netlify.app](https://bhavyansh.netlify.app)
+- 💼 **LinkedIn:** [linkedin.com/in/JSBhavyansh](https://www.linkedin.com/in/bhavyansh03/)
+- 🌐 **Portfolio:** [bhavyansh.netlify.app](https://js-bhavyansh.netlify.app/)
 
 ---
 *Looking for a developer who ships products, not just code? Check out my repositories below.*

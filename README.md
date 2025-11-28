@@ -1,6 +1,53 @@
-# 💫 About Me:
-<b>About Me</b><br>Hello! I'm Bhavyansh, a passionate mobile app developer from India. I'm currently working on my startup application and always looking to create something fresh and special with my projects. In my free time, I'm a gamer, which often inspires me to bring unique ideas into my development work.<br><br><b>Skills and Experience</b><br>- <b>Programming Languages:</b> Kotlin, Java, Dart.<br>- <b>Backend Development & Databases:</b> Firebase, Room, Isar.<br>- <b>Architectures and Patterns:</b> MVVM, BLoC, Provider.<br>- <b>Dependency Management:</b> Dagger-Hilt, Dependency Injection.<br>- <b>Networking:</b> Retrofit, Dio, OkHttp.<br>- <b>Tools and Technologies:</b> Always keen to explore and master new tools and technologies in the Android and Flutter ecosystems.<br><br><b>Let's Connect</b><br>Feel free to reach out to me at bhavyansh2018@gmail.com for any collaboration, queries, or just to chat about the latest in mobile development!
+# Hi there, I'm Bhavyansh! 👋
 
+### Mobile App Developer | Flutter Specialist
+
+I am a Mobile Engineer with **14+ months of experience** building scalable, cross-platform applications. I specialize in **Flutter & Dart**, with a strong background in Native Android (Kotlin). I focus on writing clean, maintainable code using **Clean Architecture** and **BLoC**.
+
+Currently, I am developing mobile solutions at **Yonder Wonder**.
+
+---
+
+### 🚀 Career Highlights
+
+- **WeClick (10k+ Downloads):** Designed and engineered an AI-powered Photo Generation app. Handled everything from **BLoC** state management to **Google/Apple In-App Purchases**, **ML Kit** integration, and **GA4** analytics.
+- **Enterprise HealthTech:** Built a secure, role-based training platform for caregivers (Android/iOS/Web) at **Radius**, ensuring HIPAA compliance and handling complex video/exam modules.
+- **Production Experience:** Successfully shipped and maintained apps on both the **Google Play Store** and **Apple App Store**.
+
+---
+
+### 🛠 Tech Stack
+
+**Languages & Frameworks**
+- 📱 **Flutter** (Expert)
+- 🎯 **Dart**
+- 🤖 **Kotlin** (Native Android)
+- ☕ **Java**
+- 🚀 **Jetpack Compose**
+
+**Architecture & State Management**
+- 🏛️ **Clean Architecture** & MVVM
+- ⚡ **BLoC** (Preferred), Provider
+- 🧪 **Unit & Integration Testing**
+
+**Backend & Tools**
+- 🔥 **Firebase** (Auth, Firestore, Functions, Storage)
+- 📡 **Networking** (Dio, Retrofit, OkHttp)
+- 🤖 **AI/ML** (Google ML Kit)
+- 🛠️ **CI/CD** & Git
+
+---
+
+### 📬 Let's Connect
+
+I am always open to discussing new mobile technologies, architecture patterns, or collaboration opportunities.
+
+- 📧 **Email:** bhavyansh2018@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/JSBhavyansh](https://linkedin.com/in/JSBhavyansh)
+- 🌐 **Portfolio:** [bhavyansh.netlify.app](https://bhavyansh.netlify.app)
+
+---
+*Looking for a developer who ships products, not just code? Check out my repositories below.*
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavyansh_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyansh03/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JS_Bhavyansh) 
